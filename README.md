@@ -1,8 +1,6 @@
 
 # Build a Game-Style Explosion (Python + Pygame)
 
-> **One concept at a time. No fluff. Pure visual impact.**
-
 ---
 
 ## What This Is
@@ -13,6 +11,10 @@ Most tutorials dump 200 lines of code on you and say "figure it out."
 Here, we build the engine layer by layer. Each folder adds exactly **one** new physics concept to the system, so you actually understand *why* the explosion looks the way it does.
 
 ---
+
+
+https://github.com/user-attachments/assets/ff0d23af-8c73-4297-9f23-7b15423c76de
+
 
 ##  Repository Structure
 The project is divided into 6 independent folders. Each folder contains a standalone `main.py` that runs that specific stage of the simulation.
